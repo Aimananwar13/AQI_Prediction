@@ -1,0 +1,9 @@
+{
+    "Algorithm": "Random Forest Regression",
+    "Target": "AQI",
+    "MAE": 21.15,
+    "RMSE": 47.63,
+    "R2 Score": 0.8752,
+    "Training Records": 19840,
+    "Testing Records": 4961
+}
